@@ -4,7 +4,7 @@
 
 | 코드 | 상황 | 상태 | 최근 정답률 | 오답 메모 | 마지막 학습일 |
 |---|---|---|---|---|---|
-| T01 | 카페 주문 | 미시작 | - | - | - |
+| T01 | 카페 주문 | 복습필요 | 40% | Is that for here or to go? / What is the password for the Wi-Fi? (the 빠뜨림) / I don't think this is what I ordered. (what I ordered = 내가 주문한 것) | 2026-09-23 |
 | T02 | 식당 예약·주문 | 미시작 | - | - | - |
 | T03 | 길 묻기·교통 | 미시작 | - | - | - |
 | T04 | 쇼핑·교환·환불 | 미시작 | - | - | - |
