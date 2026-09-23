@@ -28,6 +28,7 @@
 | `.claude/skills/test/SKILL.md` | `/test` — 단어 퀴즈 → 채점 → 오답 기록 |
 | `.claude/skills/talk/SKILL.md` | `/talk` — 일상 회화 단어 배열로 문장 만들기 → 채점 → 오답 기록 |
 | `data/words.md` | Day별 단어 목록과 단어별 상태·틀린 횟수 (매 세션 읽고 갱신) |
+| `data/pool.md` | 토익 독종반 「토익 단어 모음」 PDF의 빈출 순 단어 2,109개. `/study`가 새 Day를 만들 때 20개씩 가져간다 |
 | `data/talk.md` | 회화 상황별 진도·정답률·오답 메모 |
 | `data/log.md` | 세션별 사용 기록 — append only |
 
