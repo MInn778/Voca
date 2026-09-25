@@ -4,3 +4,4 @@
 |---|---|---|---|---|---|---|
 | 2026-09-23 | test | Day 1 | 10 | 9 | 90% | implement(모름) |
 | 2026-09-23 | talk | T01 카페 주문 | 5 | 2 | 40% | for here or to go, the password for the Wi-Fi, what I ordered |
+| 2026-09-25 | test | Day 2 (+복습 implement) | 10 | 10 | 100% | (없음) |
